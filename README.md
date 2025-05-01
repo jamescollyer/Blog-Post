@@ -25,11 +25,11 @@ pip install pandas matplotlib squarify numpy seaborn
 ## Usage
 1. Download and extract Zip File
 2. Make sure the Jupiter Notebook file is in the same directory as Charts and SteamDB folder
-3. Make sure the pd.read_csv('SteamDB_csv/SteamPlayers.csv) follows this to access the SteamDB_csv folder
+3. Make sure the pd.read_csv('SteamDB_data/SteamPlayers.csv) follows this to access the SteamDB_data folder
 4. Run all 
 
 ## Data Source
-4 data sets are used included in SteamDB_csv Folder:
+4 data sets are used included in SteamDB_data Folder:
 - `100 highest reviewed.csv`
 - `Games released by Month.csv`
 - `SteamPlayers.csv`
